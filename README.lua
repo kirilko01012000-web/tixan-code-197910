@@ -1839,7 +1839,7 @@ end)
 
 -- ========================= Панель тематик =========================
 
-local SUPPORT_LINK = "https://discord.gg/6UhNkgjhm8"
+local SUPPORT_LINK = "tixan hab"
 local SUPPORT_CODE = "6UhNkgjhm8"
 
 local function buildThemePanel()
